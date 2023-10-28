@@ -1,0 +1,5 @@
+export const ALLOW_USER_LOGIN = 'ALLOW_USER_LOGIN';
+
+export const LOGOUT_USER = 'LOGOUT_USER';
+
+export const TOGGLE_SIDEBAR = 'TOGGLE_SIDEBAR';
